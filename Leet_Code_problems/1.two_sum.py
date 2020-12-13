@@ -31,7 +31,7 @@ Constraints:
 -109 <= target <= 109
 Only one valid answer exists
 """
-res = []
+
 nums=[3,3]
 target=6
 #this will run from 0 to length of list
